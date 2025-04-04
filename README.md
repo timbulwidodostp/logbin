@@ -1,5 +1,5 @@
 # logbin
-Log-binomial regression Use With (In) R Software
+Log-binomial regression Use logbin With (In) R Software
 
 Olah Data Semarang
 
