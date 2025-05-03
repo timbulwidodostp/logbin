@@ -1,6 +1,8 @@
 # logbin
 Log-binomial regression Use logbin With (In) R Software
 
+https://www.youtube.com/watch?v=Q4YqYtDBtfE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
